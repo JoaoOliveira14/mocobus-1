@@ -1,0 +1,48 @@
+.card[name^="onibus"] {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: red;
+    width: 28%;
+    float: left;
+    text-align: center;
+    
+}
+.material-icons[name^="busicon"]{
+    font-size: 96px;
+    color: white;
+    
+}
+
+}
+.material-icons{
+    font-size: 96px;
+    color: white;
+}
+
+}
+.material-icons[name^="infoicon"]{
+font-size: 96px;
+    color: white;
+}
+
+.card[name^="pontos"] {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: dodgerblue; 
+    width: 30%;
+    float: right; 
+   text-align: center;
+}
+
+.card[name^="info"] {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: green;
+    width: 30%;
+    float: right;
+    text-align: center;
+}
+
+.container {
+    padding: 2px 16px;
+}
